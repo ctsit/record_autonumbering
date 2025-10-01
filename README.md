@@ -1,4 +1,11 @@
-# Custom Record Auto-Numbering
+# Custom Record Auto-Numbering - ARCHIVED
+
+**This repository has been archived and is no longer actively maintained.**
+
+This project was archived as of October 1, 2025. https://github.com/lsgs/redcap-record-autonumbering is the authoritative repository for this software.
+
+-----------
+
 
 This module allows users to create a custom record auto-numbering schema for their REDCap project. This works during data entry but not in public surveys or API/CSV data import.
 
